@@ -1,1 +1,0 @@
-This is the second part of the thesis -we conducted price prediction on each aggregated contract's next hour and 24 hours' execution time.
